@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RailServiceConsoleApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RailServiceConsoleApp_jar</output-path>
+    <root id="archive" name="RailServiceConsoleApp.jar">
+      <element id="module-output" name="RailServiceConsoleApp" />
+      <element id="module-test-output" name="RailServiceConsoleApp" />
+    </root>
+  </artifact>
+</component>
